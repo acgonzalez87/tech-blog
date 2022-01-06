@@ -1,4 +1,4 @@
-# Game Forum
+# Tech Blog
 
 ## Description
   A spot where any developer can publish articles, blog posts, thoughts and opinions.
